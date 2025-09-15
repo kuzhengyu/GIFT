@@ -16,7 +16,7 @@ You can download the full dataset from the following link: https://drive.google.
 ## Training and Evaluation
 Our framework is designed to be easily integrated with existing VPR pipelines. The training procedures used in our paper are heavily based on the excellent official implementations of **BoQ** and **VLAD-BuFF**.
 
--   **For BoQ models**: Please refer to the official [Bag-of-Queries (BoQ)](https://github.com/amaralibey`/Bag-of-Queries) repository.
+-   **For BoQ models**: Please refer to the official [Bag-of-Queries (BoQ)](https://github.com/amaralibey/Bag-of-Queries) repository.
 -   **For VLAD-BuFF models**: Please refer to the official [VLAD-BuFF](https://github.com/Ahmedest61/VLAD-BuFF) repository.
 -   **For GSV-Cities dataset**：Please refer to the official [GSV-Cities](https://github.com/amaralibey/gsv-cities) repository.
 
