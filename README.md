@@ -10,7 +10,7 @@ We provide the complete set of synthesized images used in our experiments. The d
 - **Conditions**: Snow, Fog, Sun, Night, Rain, Overcast
 - **Source Cities**: LosAngeles, Medellin, BuenosAires
 
-You can download the full dataset from the following link: 
+You can download the full dataset from the following link: https://drive.google.com/drive/folders/1UyPd49ASx6WDTdjYS6fYX7_AAficnnQS?usp=sharing
 
 
 ## Training and Evaluation
@@ -18,5 +18,7 @@ Our framework is designed to be easily integrated with existing VPR pipelines. T
 
 -   **For BoQ models**: Please refer to the official [Bag-of-Queries (BoQ)](https://github.com/amaralibey`/Bag-of-Queries) repository.
 -   **For VLAD-BuFF models**: Please refer to the official [VLAD-BuFF](https://github.com/Ahmedest61/VLAD-BuFF) repository.
+-   **For GSV-Cities dataset**：Please refer to the official [GSV-Cities](https://github.com/amaralibey/gsv-cities) repository.
+
 
 Our work builds upon these strong foundations, and we extend our sincere gratitude to the authors for their significant contributions to the VPR community and for making their code publicly available.
