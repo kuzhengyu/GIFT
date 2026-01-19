@@ -1,10 +1,10 @@
 # GIFT: A Generative Imagined Fine-Tuning Framework for Visual Place Recognition
 
-This repository contains the official dataset for our paper: **"GIFT: A Generative Imagined Fine-Tuning Framework for Visual Place Recognition"**.
+This repository contains the official dataset for our paper: **"GIFT: A Generative Imagined Fine-Tuning Framework for Visual Place Recognition"**. The paper is accepted by 2026 IEEE ICASSP🪅. 
 
 ## Datasets
 
-We provide the complete set of synthesized images used in our experiments. The data is generated from three source cities (LosAngeles, Medellin, and BuenosAires) from the GSV-Cities dataset, under six distinct environmental and illumination conditions.
+We provide the complete set of synthesized images used in our experiments. The data is generated from three source cities from the GSV-Cities dataset, under six distinct environmental and illumination conditions.
 
 - **Total Images**: ~140,000
 - **Conditions**: Snow, Fog, Sun, Night, Rain, Overcast
